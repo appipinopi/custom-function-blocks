@@ -1,0 +1,9 @@
+{
+  "id": "custom-function-blocks",
+  "name": "カスタム関数・ループ",
+  "version": "1.0.0",
+  "author": "EDBP-Pluginメイカー",
+  "description": "カスタム関数と便利なループ処理を提供するプラグインです。",
+  "main": "main.js",
+  "official": false
+}
